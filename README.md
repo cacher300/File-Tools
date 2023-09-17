@@ -1,3 +1,5 @@
 # File  Tools
-This program extracts the still portion of live photos from downloaded photos from icloud/n
-It is a simple Python program
+Various file moving programs
+LivePhotoExtractor extracts the still portion of live photos from icloud  
+Discord uploader splits a folder of files into subfolders with a cerian amount of files in each for easy uploads to discod, youtube etc  
+
